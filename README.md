@@ -10,7 +10,7 @@ Bài tập lớn môn **Toán rời rạc 1 (TRR1)** tại học viện Công Ng
 
 **Giảng viên**: Nguyễn Tất Thắng | **khóa**: D24
 
-📄 **Báo cáo** [PDF](https://drive.google.com/file/d/15Cns4pYj0EkIgpQhy-x6LDwFeADafc6e/view?usp=sharing) | [WORD](https://docs.google.com/document/d/1fOUJ9SkWL1T18vH_tvpAHbhW5wg_bTv1/edit?usp=sharing&ouid=104169151814323896037&rtpof=true&sd=true)
+📄 **Báo cáo** [PDF](https://drive.google.com/file/d/19dpdVFsPJZr3HbfoP01Ehp0Y_kHwQL_u/view?usp=drive_link) | [WORD](https://docs.google.com/document/d/1mvvN0xICbwHte7iMYSqZI6OXaXDZ4yuF/edit?usp=drive_link&ouid=104169151814323896037&rtpof=true&sd=true)
 
 ---
 
