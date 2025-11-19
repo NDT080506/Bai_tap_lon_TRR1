@@ -1,6 +1,7 @@
 # Bài Tập Lớn TRR1 - PTIT
 
 Bài tập lớn môn **Toán rời rạc 1 (TRR1)** tại học viện Công Nghệ Bưu Chính Viễn Thông - PTIT
+
 **Sinh viên**:
 - Nguyễn Đình Tú - B24DCCN583
 - Nguyễn Gia Hưng - B24DCCN260
@@ -28,7 +29,7 @@ Bài tập lớn môn **Toán rời rạc 1 (TRR1)** tại học viện Công Ng
 
 ## 🛠️ Hướng dẫn sử dụng
 
-- Tải github repository bằng file .zip
+- Tải github repository qua file .zip
 - Sau đó giải nén nó
 - Ấn vào file .exe và chạy chương trình
 
