@@ -14,18 +14,34 @@ Bài tập lớn môn **Toán rời rạc 1 (TRR1)** tại học viện Công Ng
 
 ## 📑 Nội dung
 
-### Bài tập nhóm
+### Chủ đề: Nguyên Lý Bù Trừ (***INCLUSION - EXCLUSION PRINCIPLE***)
 
-## Chủ đề: Nguyên Lý Bù Trừ (***INCLUSION - EXCLUSION PRINCIPLE***)
-
+- Trình bày nội dung của nguyên lý bù trừ và hiện thị kết quả qua chương trình máy tính
+  
 - Công việc trong nhóm:
   - Nguyễn Đình Tú: Viết báo cáo
   - Nguyễn Gia Hưng: Code chương trình
   - Nguyễn Hồng Phúc: Viết phần ứng dụng
   - Ngô Minh Quang: Viết phần lý thuyết
 
+---
 
- 
+## 🛠️ Hướng dẫn sử dụng
 
+- Tải github repository bằng file .zip
+- Sau đó giải nén nó
+- Ấn vào file .exe và chạy chương trình
 
+---
+
+## ⚙️ Công cụ sử dung
+
+- **Visual Studio Code**
+- **Notepad**
+
+---
+
+## 📜 License
+
+Tài liệu phục vụ mục đích học tập tại PTIT. Không sử dụng cho mục đích thương mại.
 
