@@ -32,6 +32,12 @@ Bài tập lớn môn **Toán rời rạc 1 (TRR1)** tại học viện Công Ng
 
 - Tải github repository qua file .zip
 - Sau đó giải nén nó
+- Sau khi giải nén, có một file .exe và folder data
+- Trong folder data:
+  - Các file phải được đặt tên theo cú pháp (Mã_môn).csv
+  - Trong mỗi file gồm 2 phần:
+    - Tiêu đề cột: STT, Họ và tên, MSV
+    - Các dòng tiếp theo: Các dữ liệu viết lần lượt, tương ứng với tiêu đề cột và cách nhau bởi dấu phảy
 - Ấn vào file .exe và chạy chương trình
 
 ---
